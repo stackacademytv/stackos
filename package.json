@@ -3,9 +3,11 @@
   "version": "1.0.0",
   "description": "Simple OS info - Demo module",
   "main": "stackos.js",
-  "repository": "https://github.com/stackacademytv/stackos",
+  "repository": "https://github.com/stackacademytv/stackos.git",
+  "bugs": "https://github.com/stackacademytv/stackos/issues",
   "author": "Ray Viljoen <ray@stackacademy.tv>",
   "license": "MIT",
+  "keywords": ["os", "demo", "yarn course"],
   "dependencies": {
     "chalk": "^2.3.0"
   }
